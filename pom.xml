@@ -5,14 +5,14 @@
   <parent>
     <groupId>com.wavemaker.app</groupId>
     <artifactId>wavemaker-app-parent</artifactId>
-    <version>11.7.0</version>
+    <version>11.7.1</version>
   </parent>
   <groupId>com.wavemaker.project</groupId>
   <artifactId>QRCodeGenerator</artifactId>
   <version>1.0</version>
   <packaging>war</packaging>
   <properties>
-    <wavemaker.app.runtime.ui.version>11.7.0-rc.161</wavemaker.app.runtime.ui.version>
+    <wavemaker.app.runtime.ui.version>11.7.1-rc.162</wavemaker.app.runtime.ui.version>
     <wavemaker.artifactType>wmapp</wavemaker.artifactType>
   </properties>
   <build>
